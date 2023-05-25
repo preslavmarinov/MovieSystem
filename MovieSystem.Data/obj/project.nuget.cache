@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "sJ2T/7r2nvu+5f+Pvc+8ww2XOka/4CGV8ZqI7O2WYbMartwc6qiCwNbcd4JuMZXdjLN27XZw9ifMJSbWsFigBQ==",
+  "dgSpecHash": "SU40+pWDroB+La+zA+cOgcWHDSDoxVZ2WLMbIbkpaK31+/WU1NQ7z/nv+KCg4Vf28/n6+4f0YnTZNCMIqDi0KA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Preslav Marinov\\OneDrive\\Desktop\\ASP.Net and Design Patterns\\.NET-core-MVC-and-RazorPages\\MovieStore.Web\\MovieSystem.Data\\MovieSystem.Data.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Preslav Marinov\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\Preslav Marinov\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\Preslav Marinov\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Preslav Marinov\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
     "C:\\Users\\Preslav Marinov\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
@@ -11,7 +13,7 @@
     "C:\\Users\\Preslav Marinov\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\7.0.5\\microsoft.aspnetcore.cryptography.keyderivation.7.0.5.nupkg.sha512",
     "C:\\Users\\Preslav Marinov\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\7.0.5\\microsoft.aspnetcore.identity.entityframeworkcore.7.0.5.nupkg.sha512",
     "C:\\Users\\Preslav Marinov\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
-    "C:\\Users\\Preslav Marinov\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\Preslav Marinov\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Preslav Marinov\\.nuget\\packages\\microsoft.data.sqlclient\\5.0.1\\microsoft.data.sqlclient.5.0.1.nupkg.sha512",
     "C:\\Users\\Preslav Marinov\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\5.0.1\\microsoft.data.sqlclient.sni.runtime.5.0.1.nupkg.sha512",
     "C:\\Users\\Preslav Marinov\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.5\\microsoft.entityframeworkcore.7.0.5.nupkg.sha512",
