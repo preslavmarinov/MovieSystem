@@ -51,7 +51,7 @@ namespace MovieSystem.Data.Repositories
             return _mapper.Map<ProducingCompanyDTO>(company);
         }
 
-        public Guid UpdateDirector(ProducingCompanyDTO producingCompany)
+        public Guid UpdateProducingCompany(ProducingCompanyDTO producingCompany)
         {
             _context.ProducingCompanies.Update(_mapper.Map<ProducingCompany>(producingCompany));
             _context.SaveChanges();

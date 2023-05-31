@@ -9,17 +9,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-//using AutoMapper;
-//using AutoMapper.QueryableExtensions;
-//using System;
-//using System.Collections.Generic;
-//using System.Linq;
-//using System.Text;
-//using System.Threading.Tasks;
-//using WebLibrary.Data.Entities;
-//using WebLibrary.Data.Repositories.Interfaces;
-//using WebLibrary.Domain.Dtos;
-
 namespace MovieSystem.Data.Repositories
 {
     public class MovieRepository : IMovieRepository

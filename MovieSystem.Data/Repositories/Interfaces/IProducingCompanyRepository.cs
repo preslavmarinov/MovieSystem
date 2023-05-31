@@ -12,7 +12,7 @@ namespace MovieSystem.Data.Repositories.Interfaces
         ProducingCompanyDTO GetProducingCompanyById(Guid id);
         List<ProducingCompanyDTO> GetAllProducingCompanies();
         Guid CreateProducingCompany(ProducingCompanyDTO producingCompany);
-        Guid UpdateDirector(ProducingCompanyDTO producingCompany);
+        Guid UpdateProducingCompany(ProducingCompanyDTO producingCompany);
         void DeleteProducingCompany(Guid id);
     }
 }
