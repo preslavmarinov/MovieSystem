@@ -12,3 +12,6 @@ C:\Users\Preslav Marinov\OneDrive\Desktop\ASP.Net and Design Patterns\.NET-core-
 C:\Users\Preslav Marinov\OneDrive\Desktop\ASP.Net and Design Patterns\.NET-core-MVC-and-RazorPages\MovieStore.Web\MovieSystem.Data\obj\Debug\net7.0\MovieSystem.Data.pdb
 C:\Users\Preslav Marinov\OneDrive\Desktop\ASP.Net and Design Patterns\.NET-core-MVC-and-RazorPages\MovieStore.Web\MovieSystem.Data\obj\Debug\net7.0\MovieSystem.Data.genruntimeconfig.cache
 C:\Users\Preslav Marinov\OneDrive\Desktop\ASP.Net and Design Patterns\.NET-core-MVC-and-RazorPages\MovieStore.Web\MovieSystem.Data\obj\Debug\net7.0\ref\MovieSystem.Data.dll
+C:\Users\Preslav Marinov\OneDrive\Desktop\ASP.Net and Design Patterns\.NET-core-MVC-and-RazorPages\MovieStore.Web\MovieSystem.Data\bin\Debug\net7.0\MovieSystem.Domain.dll
+C:\Users\Preslav Marinov\OneDrive\Desktop\ASP.Net and Design Patterns\.NET-core-MVC-and-RazorPages\MovieStore.Web\MovieSystem.Data\bin\Debug\net7.0\MovieSystem.Domain.pdb
+C:\Users\Preslav Marinov\OneDrive\Desktop\ASP.Net and Design Patterns\.NET-core-MVC-and-RazorPages\MovieStore.Web\MovieSystem.Data\obj\Debug\net7.0\MovieSystem.Data.csproj.CopyComplete

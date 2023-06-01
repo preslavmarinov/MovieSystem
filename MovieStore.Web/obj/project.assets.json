@@ -1270,6 +1270,22 @@
         "runtime": {
           "bin/placeholder/MovieSystem.Domain.dll": {}
         }
+      },
+      "MovieSystem.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "AutoMapper": "12.0.1",
+          "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.1",
+          "MovieSystem.Data": "1.0.0",
+          "MovieSystem.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MovieSystem.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MovieSystem.Services.dll": {}
+        }
       }
     }
   },
@@ -3721,6 +3737,11 @@
       "type": "project",
       "path": "../MovieSystem.Domain/MovieSystem.Domain.csproj",
       "msbuildProject": "../MovieSystem.Domain/MovieSystem.Domain.csproj"
+    },
+    "MovieSystem.Services/1.0.0": {
+      "type": "project",
+      "path": "../MovieSystem.Services/MovieSystem.Services.csproj",
+      "msbuildProject": "../MovieSystem.Services/MovieSystem.Services.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -3729,7 +3750,8 @@
       "Microsoft.EntityFrameworkCore.Design >= 7.0.5",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.5",
       "Microsoft.EntityFrameworkCore.Tools >= 7.0.5",
-      "MovieSystem.Data >= 1.0.0"
+      "MovieSystem.Data >= 1.0.0",
+      "MovieSystem.Services >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -3761,6 +3783,9 @@
           "projectReferences": {
             "C:\\Users\\Preslav Marinov\\OneDrive\\Desktop\\ASP.Net and Design Patterns\\.NET-core-MVC-and-RazorPages\\MovieStore.Web\\MovieSystem.Data\\MovieSystem.Data.csproj": {
               "projectPath": "C:\\Users\\Preslav Marinov\\OneDrive\\Desktop\\ASP.Net and Design Patterns\\.NET-core-MVC-and-RazorPages\\MovieStore.Web\\MovieSystem.Data\\MovieSystem.Data.csproj"
+            },
+            "C:\\Users\\Preslav Marinov\\OneDrive\\Desktop\\ASP.Net and Design Patterns\\.NET-core-MVC-and-RazorPages\\MovieStore.Web\\MovieSystem.Services\\MovieSystem.Services.csproj": {
+              "projectPath": "C:\\Users\\Preslav Marinov\\OneDrive\\Desktop\\ASP.Net and Design Patterns\\.NET-core-MVC-and-RazorPages\\MovieStore.Web\\MovieSystem.Services\\MovieSystem.Services.csproj"
             }
           }
         }

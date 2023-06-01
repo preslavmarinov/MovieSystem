@@ -21,6 +21,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\MovieSystem.Data\MovieSystem.Data.csproj" />
+    <ProjectReference Include="..\MovieSystem.Services\MovieSystem.Services.csproj" />
   </ItemGroup>
 
 </Project>

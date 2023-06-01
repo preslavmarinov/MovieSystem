@@ -81,3 +81,9 @@ C:\Users\Preslav Marinov\OneDrive\Desktop\ASP.Net and Design Patterns\.NET-core-
 C:\Users\Preslav Marinov\OneDrive\Desktop\ASP.Net and Design Patterns\.NET-core-MVC-and-RazorPages\MovieStore.Web\MovieStore.Web\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
 C:\Users\Preslav Marinov\OneDrive\Desktop\ASP.Net and Design Patterns\.NET-core-MVC-and-RazorPages\MovieStore.Web\MovieStore.Web\bin\Debug\net7.0\Mono.TextTemplating.dll
 C:\Users\Preslav Marinov\OneDrive\Desktop\ASP.Net and Design Patterns\.NET-core-MVC-and-RazorPages\MovieStore.Web\MovieStore.Web\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Preslav Marinov\OneDrive\Desktop\ASP.Net and Design Patterns\.NET-core-MVC-and-RazorPages\MovieStore.Web\MovieStore.Web\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\Preslav Marinov\OneDrive\Desktop\ASP.Net and Design Patterns\.NET-core-MVC-and-RazorPages\MovieStore.Web\MovieStore.Web\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Preslav Marinov\OneDrive\Desktop\ASP.Net and Design Patterns\.NET-core-MVC-and-RazorPages\MovieStore.Web\MovieStore.Web\bin\Debug\net7.0\MovieSystem.Domain.dll
+C:\Users\Preslav Marinov\OneDrive\Desktop\ASP.Net and Design Patterns\.NET-core-MVC-and-RazorPages\MovieStore.Web\MovieStore.Web\bin\Debug\net7.0\MovieSystem.Services.dll
+C:\Users\Preslav Marinov\OneDrive\Desktop\ASP.Net and Design Patterns\.NET-core-MVC-and-RazorPages\MovieStore.Web\MovieStore.Web\bin\Debug\net7.0\MovieSystem.Services.pdb
+C:\Users\Preslav Marinov\OneDrive\Desktop\ASP.Net and Design Patterns\.NET-core-MVC-and-RazorPages\MovieStore.Web\MovieStore.Web\bin\Debug\net7.0\MovieSystem.Domain.pdb
