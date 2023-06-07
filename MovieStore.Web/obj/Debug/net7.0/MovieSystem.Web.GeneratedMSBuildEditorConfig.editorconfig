@@ -16,6 +16,18 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Preslav Marinov\OneDrive\Desktop\ASP.Net and Design Patterns\.NET-core-MVC-and-RazorPages\MovieStore.Web\MovieStore.Web
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Preslav Marinov/OneDrive/Desktop/ASP.Net and Design Patterns/.NET-core-MVC-and-RazorPages/MovieStore.Web/MovieStore.Web/Views/Director/AddDirector.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlyZWN0b3JcQWRkRGlyZWN0b3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Preslav Marinov/OneDrive/Desktop/ASP.Net and Design Patterns/.NET-core-MVC-and-RazorPages/MovieStore.Web/MovieStore.Web/Views/Director/EditDirector.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlyZWN0b3JcRWRpdERpcmVjdG9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Preslav Marinov/OneDrive/Desktop/ASP.Net and Design Patterns/.NET-core-MVC-and-RazorPages/MovieStore.Web/MovieStore.Web/Views/Director/GetAllDirectors.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlyZWN0b3JcR2V0QWxsRGlyZWN0b3JzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Preslav Marinov/OneDrive/Desktop/ASP.Net and Design Patterns/.NET-core-MVC-and-RazorPages/MovieStore.Web/MovieStore.Web/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
