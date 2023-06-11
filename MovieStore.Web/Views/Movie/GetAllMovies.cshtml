@@ -1,10 +1,13 @@
-﻿@model IEnumerable<MovieStore.Web.Models.MovieModels.MovieViewModel>
+﻿@model IEnumerable<MovieSystem.Web.Models.MovieModels.MovieViewModel>
 
 @{
     ViewData["Title"] = "List Movies";
 }
 
-<h1>List of Books</h1>
+<h1>List of Movies</h1>
+<p>
+    <a asp-action="AddMovie">Create New Movie</a>
+</p>
 <table class="table">
     <thead>
         <tr>
@@ -34,7 +37,7 @@
                     @Html.DisplayFor(modelItem => item.DirectorName)
                 </td>
                 <td>
-                    <a asp-action="DetailsCompany" asp-controller="ProducingCompany" asp-route-id="@item.ProducingCompanyId"> @Html.DisplayFor(modelItem => item.Name)</a>
+                    Example
                 </td>
                 <td>
                     @Html.DisplayFor(modelItem => item.GenreName)

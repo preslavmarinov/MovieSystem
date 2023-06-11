@@ -37,7 +37,7 @@ namespace MovieSystem.Web.Controllers
         }
 
         [HttpGet]
-        public IActionResult AddMoive()
+        public IActionResult AddMovie()
         {
             MovieCreateModel model = new MovieCreateModel();
             PopulateDropDowns(model);

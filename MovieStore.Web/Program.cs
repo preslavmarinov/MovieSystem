@@ -3,6 +3,8 @@ using MovieSystem.Data.Repositories;
 using MovieSystem.Data.Repositories.Interfaces;
 using MovieSystem.Services;
 using MovieSystem.Services.Interfaces;
+using Microsoft.AspNetCore.Identity;
+using MovieSystem.Data.Entities;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -15,6 +17,8 @@ builder.Services.AddDbContext<MovieSystemContext>(c =>
 {
     c.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
 });
+
+builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true).AddEntityFrameworkStores<MovieSystemContext>();
 
 builder.Services.AddScoped<IMovieService, MovieService>();
 builder.Services.AddScoped<IDirectorService, DirectorService>();

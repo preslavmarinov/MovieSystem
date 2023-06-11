@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace MovieSystem.Data.Repositories
 {
-    public class MovieSystemContext:IdentityDbContext<User>
+    public class MovieSystemContext:IdentityDbContext
     {
         public MovieSystemContext(DbContextOptions<MovieSystemContext> options)
             :base(options)
