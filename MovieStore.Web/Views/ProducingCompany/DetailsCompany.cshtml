@@ -8,13 +8,8 @@
 <h1>Details of Producing Company</h1>
 
 <div>
+    <hr/>
     <dl class="row">
-        <dt class="col-sm-2">
-            @Html.DisplayNameFor(model => model.Id)
-        </dt>
-        <dd class="col-sm-10">
-            @Html.DisplayFor(model => model.Id)
-        </dd>
         <dt class="col-sm-2">
             @Html.DisplayNameFor(model => model.Name)
         </dt>
@@ -30,5 +25,6 @@
     </dl>
 </div>
 <div>
+    <a asp-action="EditCompany" asp-route-id="@Model.Id">Edit</a>
     <a asp-action="GetAllCompanies" asp-controller="ProducingCompany">Go to Producing Companies List</a>
 </div>

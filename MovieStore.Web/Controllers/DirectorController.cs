@@ -25,11 +25,11 @@ namespace MovieSystem.Web.Controllers
             List<DirectorViewModel> directors = _mapper.Map<List<DirectorViewModel>>(_directorService.GetAllDirectors());
             return View(directors);
         }
-        //public IActionResult DetailsDirector(Guid id)
-        //{
-        //    var director = _mapper.Map<DirectorViewModel>(_directorService.GetDirectorById(id));
-        //    return View(director);
-        //}
+        public IActionResult DetailsDirector(Guid id)
+        {
+            var director = _mapper.Map<DirectorViewModel>(_directorService.GetDirectorById(id));
+            return View(director);
+        }
 
         [HttpGet]
         public IActionResult AddDirector()

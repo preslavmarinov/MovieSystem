@@ -17,10 +17,13 @@ namespace MovieSystem.Web.Models.MovieModels
         public DateTime ReleaseDate { get; set; }
 
         public Guid DirectorId { get; set; }
+        [Display(Name = "Director")]
         public string DirectorName { get; set; }
         public Guid ProducingCompanyId { get; set; }
+        [Display(Name = "Producing Company")]
         public string ProducingCompanyName { get; set; }
         public Guid GenreId { get; set; }
+        [Display(Name = "Genre")]
         public string GenreName { get; set; }
     }
 }

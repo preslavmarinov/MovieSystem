@@ -180,6 +180,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlyZWN0b3JcQWRkRGlyZWN0b3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Preslav Marinov/OneDrive/Desktop/ASP.Net and Design Patterns/.NET-core-MVC-and-RazorPages/MovieStore.Web/MovieStore.Web/Views/Director/DetailsDirector.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlyZWN0b3JcRGV0YWlsc0RpcmVjdG9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Preslav Marinov/OneDrive/Desktop/ASP.Net and Design Patterns/.NET-core-MVC-and-RazorPages/MovieStore.Web/MovieStore.Web/Views/Director/EditDirector.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlyZWN0b3JcRWRpdERpcmVjdG9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -202,6 +206,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/Preslav Marinov/OneDrive/Desktop/ASP.Net and Design Patterns/.NET-core-MVC-and-RazorPages/MovieStore.Web/MovieStore.Web/Views/Movie/AddMovie.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcQWRkTW92aWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Preslav Marinov/OneDrive/Desktop/ASP.Net and Design Patterns/.NET-core-MVC-and-RazorPages/MovieStore.Web/MovieStore.Web/Views/Movie/DetailsMovie.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcRGV0YWlsc01vdmllLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Preslav Marinov/OneDrive/Desktop/ASP.Net and Design Patterns/.NET-core-MVC-and-RazorPages/MovieStore.Web/MovieStore.Web/Views/Movie/EditMovie.cshtml]

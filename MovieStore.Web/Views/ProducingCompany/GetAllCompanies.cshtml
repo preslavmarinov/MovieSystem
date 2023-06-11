@@ -32,8 +32,9 @@
                     @Html.DisplayFor(modelItem => item.DateOfEstablishment)
                 </td>
                 <td>
+                    <a asp-action="DetailsCompany" asp-route-id="@item.Id">Details</a>
                     <a asp-action="EditCompany" asp-route-id="@item.Id">Edit</a> |
-                    <a asp-action="DeleteCompany" asp-route-id="@item.Id">Delete</a>
+                    <a asp-action="DeleteCompany" asp-route-id="@item.Id" onclick="return confirm('Are you sure you want to delete Producing Company:@item.Name')">Delete</a>
                 </td>
             </tr>
         }

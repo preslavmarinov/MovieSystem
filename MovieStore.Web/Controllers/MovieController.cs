@@ -72,6 +72,11 @@ namespace MovieSystem.Web.Controllers
             _movieService.DeleteMovie(id);
             return RedirectToAction("GetAllMovies");
         }
+        public IActionResult DetailsMovie(Guid id)
+        {
+            var movie = _mapper.Map<MovieViewModel>(_movieService.GetMovieById(id));
+            return View(movie);
+        }
 
         [HttpGet]
         public IActionResult AddGenre()

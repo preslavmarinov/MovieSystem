@@ -9,9 +9,6 @@
     <thead>
         <tr>
             <th>
-                @Html.DisplayNameFor(model => model.Id)
-            </th>
-            <th>
                 @Html.DisplayNameFor(model => model.Name)
             </th>
             <th></th>
@@ -25,7 +22,7 @@
                     @Html.DisplayFor(modelItem => item.Name)
                 </td>
                 <td>
-                    <a asp-action="DeleteGenre" asp-route-id="@item.Id">Delete</a>
+                    <a asp-action="DeleteGenre" asp-route-id="@item.Id" onclick="return confirm('Are you sure you want to delete Genre:@item.Name')">Delete</a>
                 </td>
             </tr>
         }
