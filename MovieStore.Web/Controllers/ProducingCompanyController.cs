@@ -50,20 +50,20 @@ namespace MovieSystem.Web.Controllers
         }
 
         [HttpPost]
-        public IActionResult EditPublisher(ProducingCompanyCreateModel company)
+        public IActionResult EditCompany(ProducingCompanyCreateModel company)
         {
             if (!ModelState.IsValid) return View(company);
             _companyService.UpdateProducingCompany(_mapper.Map<ProducingCompanyDTO>(company));
             return RedirectToAction("GetAllCompanies");
         }
 
-        public IActionResult DeletePublisher(Guid id)
+        public IActionResult DeleteCompany(Guid id)
         {
             _companyService.DeleteProducingCompany(id);
             return RedirectToAction("GetAllCompanies");
         }
         [HttpGet]
-        public IActionResult DetailsPublisher(Guid id)
+        public IActionResult DetailsCompany(Guid id)
         {
             var publisher = _companyService.GetProducingCompanyById(id);
             return View(_mapper.Map<ProducingCompanyViewModel>(publisher));

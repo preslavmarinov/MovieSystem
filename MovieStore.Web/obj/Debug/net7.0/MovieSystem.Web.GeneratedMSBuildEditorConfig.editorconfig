@@ -36,6 +36,42 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Preslav Marinov/OneDrive/Desktop/ASP.Net and Design Patterns/.NET-core-MVC-and-RazorPages/MovieStore.Web/MovieStore.Web/Views/Movie/AddGenre.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcQWRkR2VucmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Preslav Marinov/OneDrive/Desktop/ASP.Net and Design Patterns/.NET-core-MVC-and-RazorPages/MovieStore.Web/MovieStore.Web/Views/Movie/AddMovie.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcQWRkTW92aWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Preslav Marinov/OneDrive/Desktop/ASP.Net and Design Patterns/.NET-core-MVC-and-RazorPages/MovieStore.Web/MovieStore.Web/Views/Movie/EditMovie.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcRWRpdE1vdmllLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Preslav Marinov/OneDrive/Desktop/ASP.Net and Design Patterns/.NET-core-MVC-and-RazorPages/MovieStore.Web/MovieStore.Web/Views/Movie/GetAllMovies.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcR2V0QWxsTW92aWVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Preslav Marinov/OneDrive/Desktop/ASP.Net and Design Patterns/.NET-core-MVC-and-RazorPages/MovieStore.Web/MovieStore.Web/Views/Movie/ListGenres.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcTGlzdEdlbnJlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Preslav Marinov/OneDrive/Desktop/ASP.Net and Design Patterns/.NET-core-MVC-and-RazorPages/MovieStore.Web/MovieStore.Web/Views/ProducingCompany/AddCompany.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjaW5nQ29tcGFueVxBZGRDb21wYW55LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Preslav Marinov/OneDrive/Desktop/ASP.Net and Design Patterns/.NET-core-MVC-and-RazorPages/MovieStore.Web/MovieStore.Web/Views/ProducingCompany/DetailsCompany.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjaW5nQ29tcGFueVxEZXRhaWxzQ29tcGFueS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Preslav Marinov/OneDrive/Desktop/ASP.Net and Design Patterns/.NET-core-MVC-and-RazorPages/MovieStore.Web/MovieStore.Web/Views/ProducingCompany/EditCompany.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjaW5nQ29tcGFueVxFZGl0Q29tcGFueS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Preslav Marinov/OneDrive/Desktop/ASP.Net and Design Patterns/.NET-core-MVC-and-RazorPages/MovieStore.Web/MovieStore.Web/Views/ProducingCompany/GetAllCompanies.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjaW5nQ29tcGFueVxHZXRBbGxDb21wYW5pZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Preslav Marinov/OneDrive/Desktop/ASP.Net and Design Patterns/.NET-core-MVC-and-RazorPages/MovieStore.Web/MovieStore.Web/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

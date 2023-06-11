@@ -1,0 +1,49 @@
+﻿@model IEnumerable<MovieStore.Web.Models.MovieModels.MovieViewModel>
+
+@{
+    ViewData["Title"] = "List Movies";
+}
+
+<h1>List of Books</h1>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DirectorName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProducingCompanyName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.GenreName)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Title)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DirectorName)
+                </td>
+                <td>
+                    <a asp-action="DetailsCompany" asp-controller="ProducingCompany" asp-route-id="@item.ProducingCompanyId"> @Html.DisplayFor(modelItem => item.Name)</a>
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.GenreName)
+                </td>
+                <td>
+                    <a asp-action="DeleteMovie" asp-route-id="@item.Id">Delete</a>
+                    <a asp-action="EditMovie" asp-route-id="@item.Id">Edit</a> 
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
